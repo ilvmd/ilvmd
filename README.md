@@ -1,5 +1,7 @@
 
-## Hey 👋, My Name is Fahd Mohammed
+# Welcome👋 in my github profile My Name is Fahd Mohammed
+### I hope you have an enjoyable visit 
+
 <!-- [![Gmail Badge](https://img.shields.io/badge/-fahd97823@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fahd97823@gmail.com)](mailto:fahd97823@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-jaradu@mailinator.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jaradu@mailinator.com/)](https://www.twitter.com/jaradu@mailinator.com/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=jaradu@mailinator.com/)](jaradu@mailinator.com/) -->
@@ -20,14 +22,12 @@
   </a>
 -->
 <br>
-<br>
-<br>
 
 ## **Front-End**
 <div style="display: flex;justify-content: space-between">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="35" height="35"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="Git" **alt="Git" width="35" height="35"/>
