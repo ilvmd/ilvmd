@@ -5,7 +5,7 @@
 <!-- [![Gmail Badge](https://img.shields.io/badge/-fahd97823@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fahd97823@gmail.com)](mailto:fahd97823@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-jaradu@mailinator.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jaradu@mailinator.com/)](https://www.twitter.com/jaradu@mailinator.com/)
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=jaradu@mailinator.com/)](jaradu@mailinator.com/) -->
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahd-mohammed-🇵🇸-4b79b4209/)](https://www.linkedin.com/in/fahd-mohammed-4b79b4209/)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fahd-mohammed-🇵🇸-4b79b4209/)](https://www.linkedin.com/in/fahd-mohammed-🇵🇸-4b79b4209/)
 [![Github Badge](https://img.shields.io/badge/-github-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ilvmd/)](https://github.com/ilvmd)
 
 <!-- <p align='left'>bio text</p> -->
